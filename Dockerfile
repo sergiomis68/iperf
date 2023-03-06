@@ -9,5 +9,5 @@ RUN \
 USER 1001
 
 ENTRYPOINT ["/usr/bin/iperf3", "-s"]
- EXPOSE 5001
+ EXPOSE 5201
 
